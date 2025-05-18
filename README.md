@@ -1,0 +1,2 @@
+This project scans image patches extracted taken from the "DeepGlobe Land Cover Classification Dataset" to segment individual pixels into 7 distinct landcover classes, using DeepLabv3+ which utilizes Atrous Spatial Pooling to detect different scopes of the features extracted using a pretrained ResNet50 backbone (ImageNet).
+The model was not trained until the end due to limited computational resources
